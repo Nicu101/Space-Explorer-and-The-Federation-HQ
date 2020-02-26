@@ -1,6 +1,6 @@
 # Space-Explorer-and-The-Federation-HQ
 
-Objectives
+Objectives:
 
   Let there be a galaxy with space explorers and Federation headquarters (HQs). The goal of the
 space explorers is to explore all the wormholes so that they have a complete view of the galaxy. The
@@ -13,7 +13,7 @@ ways available. When a Federation HQ is available, it takes the decoded solution
 and sends the science vessel. If the decoding is wrong when the science vessel tries to enter the worm-hole,
 a great explosion destroys the galaxy, kills everyone, ends the program.
 
-=Space Explorers and the Sub-space-mambo-jumbonian Frequencies=
+Space Explorers and the Sub-space-mambo-jumbonian Frequencies:
 
   Each frequency decoding starts with data from the federation HQ, on which the science vessel uses an ana-
 lyzatron and computes the frequency as a seemingly random string. The space explorer then needs to decode
