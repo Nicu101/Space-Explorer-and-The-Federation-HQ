@@ -38,7 +38,8 @@ However, in order to find the other wormholes from the new solar system, the sci
 there.
 
 # Federation HQs
-   and experiments to complete. Because everyone at the Federation HQ is super important and super busy,
+   Federation HQs are responsible not only for space exploration, but they each have a multitude of other tasks
+and experiments to complete. Because everyone at the Federation HQ is super important and super busy,
 it is possible to have large time periods when they simply do not answer. In this new society, bureaucracy
 has reached new, previously undreamed-of levels, so it is not clear when the HQs stop answering and when
 they start again.
@@ -65,7 +66,7 @@ of new solar systems in separate messages that arrive in the following order:
       
       • discovered solar system
       • adjacent undiscovered solar system 1
-         • discovered solar system
+      • discovered solar system
       • adjacent undiscovered solar system 2
       • ...
       • END.
